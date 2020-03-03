@@ -13,3 +13,9 @@ def say_greeting_five_times
 end
 
 say_greeting_five_times
+
+def greeting
+  puts "Hi, Ruby programmer!"
+end
+ 
+greeting
